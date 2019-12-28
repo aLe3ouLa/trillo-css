@@ -1,8 +1,9 @@
 # Trillo :alien:
-Trillo project - Project of course Advanced css and sass designed by Jonas Schmedtmann and coded by Alexandra Barka
+Project for the course 'Advanced CSS and SASS' designed by Jonas Schmedtmann and coded by Alexandra Barka
 
 ## Introduction
-This project has the purpose to show some modern `Sass` and `CSS3` features by using Flexbox.
+This project purpose is to demonstrate some modern `Sass` and `CSS3` features by using Flexbox.
+
 ## Requirements
   - Node and NPM installed on machine.
   ```sh
