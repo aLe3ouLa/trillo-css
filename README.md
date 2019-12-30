@@ -1,4 +1,4 @@
-# Trillo :alien:
+# Nexter: Luxury House Real-Estate Landing Page :alien:
 Project for the course 'Advanced CSS and SASS' designed by Jonas Schmedtmann and coded by Alexandra Barka
 
 ## Introduction
