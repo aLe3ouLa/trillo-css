@@ -2,7 +2,8 @@
 Project for the course 'Advanced CSS and SASS' designed by Jonas Schmedtmann and coded by Alexandra Barka
 
 ## Introduction
-This project purpose is to demonstrate some modern `Sass` and `CSS3` features by using Flexbox.
+This project purpose is to demonstrate some modern `Sass` and `CSS3` features by using CSS Grid. This project demonstrates: css Grid, BEM, Animations, Use of CSS Color variables, Color-gradients and more.
+ 
 
 ## Requirements
   - Node and NPM installed on machine.
